@@ -5,6 +5,7 @@ I wanted to make a simple starter kit for any smaller web project to save me tim
 ### Setting it up
 
 * git clone https://github.com/yabbes/web-boilerplate
+* cd into the project folder
 * npm install
 * rm -rf .git && git init
 
